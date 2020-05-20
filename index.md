@@ -1,12 +1,14 @@
-## Profile
+# Profile
 - hiroshi-kato
 - Front-end Engineer
 
 # About
-主にフロントエンド開発（React、Redux、TypeScript）をおこなっています（実務2年）。
 
-現プロジェクトでは、Adobe XDでのプロトタイプ作成から実装、CircleCIを使ってのCICDパイプラインの構築などを担当しています。
-サーバーサイド開発（Larvel、Ruby on Railsなど）も経験があります（ともに半年ほど）。
+フロントエンド開発（React、Redux、TypeScript）をおこなっています（実務2~3年）。
+
+現プロジェクトでは、Adobe XDでのプロトタイプ作成から実装、CircleCIを使ってのCICDパイプラインの構築などを担当。
+
+また、サーバーサイド開発（Larvel、Ruby on Railsなど）も必要に応じておこなっています（ともに半年ほど）。
 
 ## 開発スキル
 
@@ -37,4 +39,12 @@
 - AWS
 	- EC2 / ECS / Fargate / RDS
 - GCP
-	- GCS
+	- GCS / Secret Manager
+
+# History
+
+- 2013年~2016年 株式会社ピースオブケイク（現[note株式会社](https://note.jp/)）
+	- Webサイト「[cakes](https://cakes.mu/)」にて企画・編集を担当
+- 2017年~現在 [DAC株式会社](https://www.dac.co.jp/)
+	- 広告配信システムの保守開発、管理画面リプレイスを担当
+	- 広告の出稿状況調査システムの管理画面会開発を担当中
