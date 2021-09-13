@@ -7,8 +7,8 @@ const Home: NextPage = () => {
     <div className={styles.container}>
       <Head>
         <title>Hiroshi Kato</title>
-        <meta name='description' content="Hiroshi Kato's profile page" />
-        <link rel='icon' href='/favicon.ico' />
+        <meta name="description" content="Hiroshi Kato's profile page" />
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <main className={styles.main}>
